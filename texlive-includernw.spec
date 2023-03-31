@@ -1,6 +1,6 @@
 Name:		texlive-includernw
 Version:	47557
-Release:	1
+Release:	2
 Summary:	Include .Rnw inside .tex
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/includernw
