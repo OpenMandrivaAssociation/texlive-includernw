@@ -3,7 +3,7 @@ Version:	47557
 Release:	2
 Summary:	Include .Rnw inside .tex
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/includernw
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/includernw
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/includernw.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/includernw.doc.r%{version}.tar.xz
